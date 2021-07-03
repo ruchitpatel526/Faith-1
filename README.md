@@ -1,7 +1,7 @@
 # Faith-1
 A 30-hour long national-level hackathon held at Sardar Vallabhbhai National Institute of Technology, Surat in April 2018. The project was recognized by Surat Municipal Corporation, Surat, India.
 
-Project Insights: 
+Hostel Food Management System: 
 
 ● Developed an online system for the university on-campus students in which students can vote for a specific meal (given 4-5
 options by the Food manager) they want to eat on a specific day in the future.
